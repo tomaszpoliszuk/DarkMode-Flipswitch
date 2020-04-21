@@ -1,9 +1,14 @@
 Package: com.tomaszpoliszuk.darkmodeflipswitch
+Depends: firmware (>= 13.0), mobilesubstrate, com.a3tweaks.flipswitch
 Name: Dark Mode Flipswitch
-Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 13.0)
+Version: 0.2
 Architecture: iphoneos-arm
 Description: Toggle for Dark Mode.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=darkmodeflipswitchDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=darkmodeflipswitchDp
 Maintainer: BigBoss
 Author: Tomasz Poliszuk
+Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Addons (Flipswitch)
-Version: 0.1
+dev: tomaszpoliszuk
+Tag: purpose::extension, compatible::ios13

@@ -2,7 +2,4 @@ obj
 .theos
 theos
 _
-*.deb
 FS*.h
-
-!/com.tomaszpoliszuk.darkmodeflipswitch_0.1_iphoneos-arm.deb
